@@ -2,7 +2,7 @@
 
 A simple and stylish QR Code generator built with **React.js**.
 
-## ✨ Features
+##✨ Features
 
 - Generate QR codes from any text
 - Set custom background color
